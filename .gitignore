@@ -163,5 +163,7 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-model/results/checkpoint-500
-model/output.zip
+./model/results/
+./model/output.zip
+model/results
+./server/.venv
